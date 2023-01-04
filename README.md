@@ -1,2 +1,2 @@
 # Frontend
-It is an HTML project
+It is a HTML project
